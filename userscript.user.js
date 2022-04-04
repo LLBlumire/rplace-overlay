@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Foxhole Logo template
+// @name         Foxhole Alliance Template
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  eternal war
-// @author       oralekin, LittleEndu, ekgame, modified to Foxhole by allshallkneel
+// @author       oralekin, LittleEndu, ekgame, modified to Foxhole by allshallkneel, modified by LLBlumire, nick12
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
